@@ -1,0 +1,10 @@
+# .dockerignore
+
+Dockerfile
+[b|B]in
+[O|o]bj
+/bin
+/obj/*.*
+/.vs
+/obj/Debug
+/obj/Debug/net6.0
